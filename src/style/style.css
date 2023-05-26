@@ -1,0 +1,89 @@
+.forgot{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.forgot-design{
+    width:30vw;
+    height:60vh;
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+}
+.forgot-form-button{
+    text-align: center !important;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.login-design{
+    width: 30vw;
+    height: 60vh;
+    background: pink;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: #0D0C37;
+}
+.header-main{
+    display: flex;
+    align-items: center;
+    main-height: 100vh;
+}
+.header-main span.trigger svg{
+    width: 20px;
+    height: 20px;
+    margin: 16px;
+}
+.header-main .header-title{
+    display: flex;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.header-title .header-title-1{
+    color: #258016;
+    font-weight: 300;
+}
+.header-title .header-title-2{
+    color: #6ED33F;
+    font-weight: 300;
+}
+.header-title .header-title-3{
+    font-weight: 300;
+}
+.header-center{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 10px;
+}
+.button-logout{
+    display: flex;
+    align-items: center;
+}
+.button-logout > span{
+    margin-right: 10px;
+}
+.Sanpham{
+    border: 1px solid black;
+    border-top: 10px;
+    margin-top: 10px;
+}
+.Themsanpham{
+    border: 1px solid #DA7C37;
+    border-top: 10px;
+    margin-top: 10px;
+}
